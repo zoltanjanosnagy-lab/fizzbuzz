@@ -1,5 +1,5 @@
 # FizzBuzz projekt
-** Mentor Klub Azure képzés repo **
+**Mentor Klub Azure képzés repo**
 
 ## Tartalomjegyzék
 
